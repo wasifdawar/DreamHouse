@@ -15,6 +15,7 @@ export default class HousingMap extends LightningElement {
             City: element.City__c,
             State: element.State__c
             //commenting
+            //Linting addition 
           },
           title: element.Name
         };
